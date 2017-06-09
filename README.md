@@ -6,6 +6,10 @@ DaansTabs is een JQuery plugin waarmee gemakkelijk een tab-menu in de site geïm
 ## Installatie
 ---
 
+git clone https://github.com/Wekuhlmann/daansTabs.git
+
+of je kan de plugin op local zetten.
+
   - Download de files
   - Kopieer de files naar de root van je website.
   - kopieer onderstaande code naar de <head> van je html.
