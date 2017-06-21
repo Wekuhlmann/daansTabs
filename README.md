@@ -73,8 +73,7 @@ Dit is een voorbeeld van de gewenste HTML-structuur. Er hoeft geen id en href te
             <li><a>test3</a></li>
             <li><a>test4</a></li>
             <li><a>test5</a></li>
-		<li><a>test5</a></li>
-        </ul>
+	      </ul>
     
         <div class="tab-content">
             <div class="tab">
