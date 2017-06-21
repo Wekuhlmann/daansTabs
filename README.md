@@ -1,4 +1,4 @@
-# DaansTabs
+﻿# DaansTabs
 ---
 
 DaansTabs is een JQuery plugin waarmee gemakkelijk een tab-menu in de site geïmplementeerd kan worden.
@@ -73,6 +73,7 @@ Dit is een voorbeeld van de gewenste HTML-structuur. Er hoeft geen id en href te
             <li><a>test3</a></li>
             <li><a>test4</a></li>
             <li><a>test5</a></li>
+		<li><a>test5</a></li>
         </ul>
     
         <div class="tab-content">
